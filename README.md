@@ -4,10 +4,11 @@
 
 <h2>Instructions for Launch</h2>
 <p>Open a new terminal and configure ROS.</p>
-<p>Pull this package and the navvis_description package into your workspace.</p>
+<p>Clone this package and the navvis_description package into your ROS configured workspace.</p>
     <ul>
         <li>This package depends on the navvis_description package.</li>
     </ul>
+<p>Clone https://github.com/cwru-eecs-373/maps_glennan.git into the workspace as well.</p>
 <p>Make sure to have the basic short version of the Glennan 5th Floor bag file downloaded to Downloads.</p>
 <p>There are three different launch files to start RVIZ.</p>
     <ol>

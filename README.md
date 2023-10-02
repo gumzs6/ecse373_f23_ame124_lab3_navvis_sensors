@@ -8,7 +8,7 @@
     <ul>
         <li>This package depends on the navvis_description package.</li>
     </ul>
-<p>Make sure to have the basic short version of the Glennan 5th Floor file downloaded to Downloads.</p>
+<p>Make sure to have the basic short version of the Glennan 5th Floor bag file downloaded to Downloads.</p>
 <p>There are three different launch files to start RVIZ.</p>
     <ol>
         <li>To view the sensor data with robot</li> 

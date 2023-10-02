@@ -13,7 +13,7 @@
     <ol>
         <li>To view the sensor data with robot</li> 
             <ul>
-                <li>Edit the lab3.launch file and ensure the path to the bag file has /home/\< your-username \>.
+                <li>Edit the lab3.launch file and ensure the path to the bag file has /home/< your-username >.</li>
                 <li>Run the command: roslaunch navvis_sensor lab3.launch</li>
                 <li>This roslaunch command takes the arguments:</li>
                     <ul>
